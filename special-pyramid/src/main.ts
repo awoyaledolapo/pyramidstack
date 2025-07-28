@@ -6,7 +6,8 @@ for (let i =1 ; i<=row ;i++){
      str+=" "
   }
   for (let j=0; j<i;j++){
-    str+=" "
+    str+="* "
   }
   console.log(str)
+ 
 }
